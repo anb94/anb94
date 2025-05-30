@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am Bioinformatics Postdoc at City Univeristy of Hong Kong.
+🔭 I’m currently working on computational drug repositioning for non-communicable diseases.
+
+
 <!--
 **anb94/anb94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
