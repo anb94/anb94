@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- I am Bioinformatics Postdoc at City Univeristy of Hong Kong.
-- 🔭 I’m currently working on computational drug repositioning for non-communicable diseases.
+I am Bioinformatics Postdoc at City Univeristy of Hong Kong. \
+I’m currently working on computational drug repositioning for non-communicable diseases.
 
 
 <!--
