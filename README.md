@@ -3,6 +3,9 @@
 I am Bioinformatics Postdoc at City Univeristy of Hong Kong. \
 I’m currently working on computational drug repositioning for non-communicable diseases.
 
+The repo 'Canary' contains a singularity container and tool for semi-automated file conversion in GWAS analysis and was published in BMC Bioinformatics.
+
+
 
 <!--
 **anb94/anb94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
