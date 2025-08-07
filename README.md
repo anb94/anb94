@@ -1,9 +1,12 @@
 ## Welcome to my Github page!
 
-I am Bioinformatics Postdoc at City Univeristy of Hong Kong. \
-I’m currently working on computational drug repositioning for non-communicable diseases.
+🧬 I am Bioinformatics Postdoc at City Univeristy of Hong Kong. \
+🔭 I’m currently working on computational drug repositioning for pancreatic ductal adenocarcinoma (PDAC). \
+🌱 I’m currently learning single-cell data analysis. \
+📫 How to reach me: CityUHK email address on the university website. 
 
-The repo 'Canary' contains a singularity container and tool for semi-automated file conversion in GWAS analysis and was published in BMC Bioinformatics.
+
+My [Canary repo](github.com/anb94/Canary) contains a singularity based tool that was published in BMC Bioinformatics. Canary is a tool which allows for the semi-automated conversion of MaCH files to PLINK files for GWAS analysis. 
 
 
 
