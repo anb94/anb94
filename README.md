@@ -8,7 +8,7 @@
 
 My [Canary repo](https://github.com/anb94/Canary) contains a singularity based tool that was published in BMC Bioinformatics. Canary is a tool which allows for the semi-automated conversion of MaCH files to PLINK files for GWAS analysis. 
 
-The [Mallard repo](https://github.com/anb94/mallard) is a machine learning disease-related gene prediction tool being developed by myself, @VangieY, and @benlee2405. It is an attempt to build upon our groups previously published model with LUAD.
+The [Mallard repo](https://github.com/anb94/mallard) is a machine learning disease-related gene prediction tool being developed by myself, [@VangieY](https://github.com/VangieY), and [@benlee2405](https://github.com/benlee2405). It is an attempt to build upon our groups previously published model with LUAD.
 
 I am currently working on improvements to [RNA-Seq tutorial](https://github.com/anb94/bioc-rnaseq-workflow) for students to follow on their lab PC. 
 
