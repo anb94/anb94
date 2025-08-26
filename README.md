@@ -1,6 +1,6 @@
 ## Welcome to my Github page!
 
-🧬 I am Bioinformatics Postdoc at City Univeristy of Hong Kong. \
+🧬 I am Bioinformatics Postdoc at City University of Hong Kong. \
 🔭 I’m currently working on network-based computational drug repositioning for pancreatic ductal adenocarcinoma (PDAC). \
 🌱 I’m currently learning single-cell data analysis. \
 📫 How to reach me: CityUHK email address on my [university profile page](https://scholars.cityu.edu.hk/en/persons/anbennett2/) or message on [threads](https://www.threads.com/@a.n.bennett)
