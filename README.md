@@ -1,9 +1,8 @@
 ## Welcome to my Github page!
 
-🧬 I am Bioinformatics Postdoc at City University of Hong Kong. \
-🔭 I’m currently working on network-based computational drug repositioning for pancreatic ductal adenocarcinoma (PDAC). \
-🌱 I’m currently learning single-cell data analysis. \
-📫 How to reach me: CityUHK email address on my [university profile page](https://scholars.cityu.edu.hk/en/persons/anbennett2/) or message on [threads](https://www.threads.com/@a.n.bennett)
+🧬 I am Senior RA at Hong Kong Genome Institute. \
+🔭 My previous work focussed on network-based computational drug repositioning. \
+📫 How to reach me:Message on [threads](https://www.threads.com/@a.n.bennett)
 
 
 My [Canary repo](https://github.com/anb94/Canary) contains a singularity based tool that was published in BMC Bioinformatics. Canary is a tool which allows for the semi-automated conversion of MaCH files to PLINK files for GWAS analysis. 
