@@ -2,16 +2,16 @@
 
 🧬 I am Senior RA at Hong Kong Genome Institute. \
 🔭 My previous work focussed on network-based computational drug repositioning. \
-📫 How to reach me:Message on [threads](https://www.threads.com/@a.n.bennett)
+📫 How to reach me: Message on [threads](https://www.threads.com/@a.n.bennett)
 
 
 My [Canary repo](https://github.com/anb94/Canary) contains a singularity based tool that was published in BMC Bioinformatics. Canary is a tool which allows for the semi-automated conversion of MaCH files to PLINK files for GWAS analysis. 
 
-I am currently working on improvements to a basic [RNA-Seq tutorial](https://github.com/anb94/bioc-rnaseq-workflow) for new students to follow on the lab server with minimal set up.
+
 
 <!--
 **anb94/anb94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am currently working on improvements to a basic [RNA-Seq tutorial](https://github.com/anb94/bioc-rnaseq-workflow) for new students to follow on the lab server with minimal set up.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
