@@ -1,13 +1,8 @@
 ## Welcome to my Github page!
 
 🧬 I am Senior RA at Hong Kong Genome Institute. \
-🔭 My previous work focussed on network-based computational drug repositioning. \
+🔭 My current work focusses on genomic medicine. \
 📫 How to reach me: Message on [threads](https://www.threads.com/@a.n.bennett)
-
-
-My [Canary repo](https://github.com/anb94/Canary) contains a singularity based tool that was published in BMC Bioinformatics. Canary is a tool which allows for the semi-automated conversion of MaCH files to PLINK files for GWAS analysis. 
-
-
 
 <!--
 **anb94/anb94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
