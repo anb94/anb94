@@ -2,7 +2,7 @@
 
 🧬 I am Senior RA at Hong Kong Genome Institute. \
 🔭 My current work focusses on genomic medicine. \
-📫 How to reach me: Message on [threads](https://www.threads.com/@a.n.bennett)
+📫 How to reach me: Message on [threads](https://www.threads.com/@a.n.bennett) and [bluesky](https://bsky.app/profile/anb94.bsky.social)
 
 <!--
 **anb94/anb94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
